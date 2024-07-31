@@ -1,4 +1,3 @@
 {
-    "board": "arduino:renesas_uno:unor4wifi",
-    "sketch": "sketch.ino"
+    "board": "arduino:renesas_uno:unor4wifi"
 }
