@@ -2,7 +2,7 @@ import requests
 import json
 
 # Configuration de ThingsBoard
-THINGSBOARD_URL = "http://thingsboard.cloud/api/v1/YOUR_DEVICE_TOKEN"
+THINGSBOARD_URL = "http://thingsboard.cloud/api/v1/f4z0rbksk2bqqhamvskz"
 HEADERS = {'Content-Type': 'application/json'}
 
 # Fonction pour récupérer l'état du canal
